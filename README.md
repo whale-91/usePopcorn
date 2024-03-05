@@ -12,4 +12,4 @@ This application is a part of a course offered by Jonas Schmedtmann. I built the
 - show stats about your watched movies
 - use Enter key to start searching movie
 - use Esc key to close the movie detail
-- watched movies stored in browser local stora
+- watched movies stored in browser local storage
